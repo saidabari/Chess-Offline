@@ -1,0 +1,6 @@
+{
+  "name": "Chess - Two Player Offline",
+  "description": "A fully functional offline two-player chess web app for mobile and PC with standard rules, checkmate detection, and clean responsive design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
